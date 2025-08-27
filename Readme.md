@@ -2,7 +2,7 @@
 
 A modern weather application built with Next.js, TypeScript, and Framer Motion.
 
-<video src="/Demo.mp4" controls width="680" controls height="322" />
+<video src="/Demo.mp4" controls width="680" height="322"></video>
 
 ## Features
 

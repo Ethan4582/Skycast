@@ -103,7 +103,7 @@ export default function WeatherApp() {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
             >
-              Weather App
+              Skycast
             </motion.h1>
             <motion.p
               className="text-lg text-slate-300 text-pretty"

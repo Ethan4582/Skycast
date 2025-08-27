@@ -1,8 +1,10 @@
-# Weather App
+# Skycast
 
 A modern weather application built with Next.js, TypeScript, and Framer Motion.
 
-<video src="/Demo.mp4" controls width="680" height="322"></video>
+[![Weather App Preview](/public/img1)](
+https://www.youtube.com/watch?v=t87vzKOHKCs)
+
 
 ## Features
 
